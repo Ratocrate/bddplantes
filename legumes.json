@@ -1,12 +1,1284 @@
+```json
 [
   {
-    "id": "156",
+    "nom": "Ail des ours",
+    "latin": "Allium ursinum",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "07-09",
+    "plantation": "10-11",
+    "recolte": "03-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Ail perpétuel",
+    "latin": "Tulbaghia violacea",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "",
+    "plantation": "03-05",
+    "recolte": "06-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Ail rocambole",
+    "latin": "Allium scorodoprasum",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "",
+    "plantation": "09-11",
+    "recolte": "06-08",
+    "classique": "non"
+  },
+  {
+    "nom": "Apios de Fortune",
+    "latin": "Apios fortunei",
+    "categorie": "Légumes racines",
+    "famille": "Fabaceae",
+    "semis": "",
+    "plantation": "03-04",
+    "recolte": "10-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Apios de Price",
+    "latin": "Apios priceana",
+    "categorie": "Légumes racines",
+    "famille": "Fabaceae",
+    "semis": "",
+    "plantation": "03-04",
+    "recolte": "10-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Châtaigne de terre / gesse tubéreuse",
+    "latin": "Lathyrus tuberosus",
+    "categorie": "Légumes racines",
+    "famille": "Fabaceae",
+    "semis": "03-04",
+    "plantation": "",
+    "recolte": "10-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Châtaigne de terre / noisette de terre",
+    "latin": "Bunium bulbocastanum",
+    "categorie": "Légumes racines",
+    "famille": "Apiaceae",
+    "semis": "09-10",
+    "plantation": "",
+    "recolte": "06-07",
+    "classique": "non"
+  },
+  {
+    "nom": "Chervis",
+    "latin": "Sium sisarum",
+    "categorie": "Légumes racines",
+    "famille": "Apiaceae",
+    "semis": "03-04",
+    "plantation": "",
+    "recolte": "10-03",
+    "classique": "non"
+  },
+  {
+    "nom": "Ciboule de Chine / Ail rocambole",
+    "latin": "Allium tuberosum",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "03-05",
+    "plantation": "04-05",
+    "recolte": "05-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Cive rouge",
+    "latin": "Allium fistulosum",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "02-05",
+    "plantation": "",
+    "recolte": "05-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Crosne du Japon",
+    "latin": "Stachys affinis",
+    "categorie": "Légumes racines",
+    "famille": "Lamiaceae",
+    "semis": "",
+    "plantation": "02-04",
+    "recolte": "11-03",
+    "classique": "non"
+  },
+  {
+    "nom": "Agastache fenouil",
+    "latin": "Agastache foeniculum",
+    "categorie": "Légumes feuilles",
+    "famille": "Lamiaceae",
+    "semis": "03-05",
+    "plantation": "05-06",
+    "recolte": "06-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Alléluia",
+    "latin": "Oxalis acetosella",
+    "categorie": "Légumes feuilles",
+    "famille": "Oxalidaceae",
+    "semis": "",
+    "plantation": "",
+    "recolte": "03-06",
+    "classique": "non"
+  },
+  {
+    "nom": "Angélique vraie",
+    "latin": "Angelica archangelica",
+    "categorie": "Légumes feuilles",
+    "famille": "Apiaceae",
+    "semis": "08-09",
+    "plantation": "03-04",
+    "recolte": "05-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Arroche marine / pourpier marin",
+    "latin": "Atriplex halimus",
+    "categorie": "Légumes feuilles",
+    "famille": "Amaranthaceae",
+    "semis": "03-04",
+    "plantation": "04-05",
+    "recolte": "01-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Artichaut",
+    "latin": "Cynara scolymus",
+    "categorie": "Légumes feuilles",
+    "famille": "Asteraceae",
+    "semis": "02-04",
+    "plantation": "04-05",
+    "recolte": "06-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Asperge",
+    "latin": "Asparagus officinalis",
+    "categorie": "Légumes feuilles",
+    "famille": "Asparagaceae",
+    "semis": "03-04",
+    "plantation": "03-04",
+    "recolte": "04-06",
+    "classique": "oui"
+  },
+  {
+    "nom": "Bette poirée",
+    "latin": "Beta vulgaris maritima",
+    "categorie": "Légumes feuilles",
+    "famille": "Amaranthaceae",
+    "semis": "04-06",
+    "plantation": "",
+    "recolte": "06-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Bourse à pasteur",
+    "latin": "Capsella bursa-pastoris",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "08-10",
+    "plantation": "",
+    "recolte": "01-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Campanule",
+    "latin": "Campanula versicolor",
+    "categorie": "Légumes feuilles",
+    "famille": "Campanulaceae",
+    "semis": "04-05",
+    "plantation": "",
+    "recolte": "03-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Cardamine hirsute",
+    "latin": "Cardamine hirsuta",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "09-10",
+    "plantation": "",
+    "recolte": "11-04",
+    "classique": "non"
+  },
+  {
+    "nom": "Cardon",
+    "latin": "Cynara cardunculus",
+    "categorie": "Légumes feuilles",
+    "famille": "Asteraceae",
+    "semis": "04-05",
+    "plantation": "05-06",
+    "recolte": "09-11",
+    "classique": "non"
+  },
+  {
+    "nom": "Céleri",
+    "latin": "Levisticum officinale",
+    "categorie": "Légumes feuilles",
+    "famille": "Apiaceae",
+    "semis": "03-04",
+    "plantation": "05",
+    "recolte": "06-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Cerfeuil sauvage",
+    "latin": "Anthriscus sylvestris",
+    "categorie": "Légumes feuilles",
+    "famille": "Apiaceae",
+    "semis": "08-09",
+    "plantation": "",
+    "recolte": "03-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Chénopode Bon-Henri",
+    "latin": "Chenopodium bonus-henricus",
+    "categorie": "Légumes feuilles",
+    "famille": "Amaranthaceae",
+    "semis": "03-04",
+    "plantation": "",
+    "recolte": "04-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Chicorée",
+    "latin": "Cichorium intybus",
+    "categorie": "Légumes feuilles",
+    "famille": "Asteraceae",
+    "semis": "05-07",
+    "plantation": "",
+    "recolte": "10-02",
+    "classique": "oui"
+  },
+  {
+    "nom": "Choux divers",
+    "latin": "Brassica oleracea",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "03-06",
+    "plantation": "05-07",
+    "recolte": "09-03",
+    "classique": "oui"
+  },
+  {
+    "nom": "Chou brocoli Nine Star Perennial",
+    "latin": "Brassica oleracea botrytis aparagoides",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "03-05",
+    "plantation": "05-06",
+    "recolte": "03-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Chou Daubenton",
+    "latin": "Brassica oleracea",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "",
+    "plantation": "03-05",
+    "recolte": "01-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Claytone de Sibérie",
+    "latin": "Claytonia sibirica",
+    "categorie": "Légumes feuilles",
+    "famille": "Montiaceae",
+    "semis": "03-05",
+    "plantation": "",
+    "recolte": "04-08",
+    "classique": "non"
+  },
+  {
+    "nom": "Consoude",
+    "latin": "Symphytum officinale",
+    "categorie": "Légumes feuilles",
+    "famille": "Boraginaceae",
+    "semis": "03-05",
+    "plantation": "04-05",
+    "recolte": "04-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Cousteline",
+    "latin": "Reichardia picroides",
+    "categorie": "Légumes feuilles",
+    "famille": "Asteraceae",
+    "semis": "03-05",
+    "plantation": "",
+    "recolte": "01-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Crambé de Tartarie",
+    "latin": "Crambe tatarica",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "09-10",
+    "plantation": "",
+    "recolte": "03-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Crambé maritime",
+    "latin": "Crambe maritima",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "03-04",
+    "plantation": "04-05",
+    "recolte": "03-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Cresson de terre",
+    "latin": "Barbarea verna",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "03-09",
+    "plantation": "",
+    "recolte": "09-04",
+    "classique": "non"
+  },
+  {
+    "nom": "Coqueret du Pérou",
+    "latin": "Physalis peruviana",
+    "categorie": "Légumes fruits",
+    "famille": "Solanaceae",
+    "semis": "02-03",
+    "plantation": "05",
+    "recolte": "08-10",
+    "classique": "non"
+  },
+  {
     "nom": "Abricotier des Hunzas",
-    "nomScientifique": "Prunus armeniaca \"Abricotier des Hunzas\"",
-    "categorie": "Fruitier charnu",
-    "strate": "Canopée",
-    "rusticitat": "-35",
-    "semis": "automne–hiver / stratification selon espèce",
-    "plantation": "novembre–mars",
-    "recolte": "selon espèce"
+    "latin": "Prunus armeniaca",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "07-08",
+    "classique": "non"
+  },
+  {
+    "nom": "Airelle",
+    "latin": "Vaccinium praestans",
+    "categorie": "Fruitiers charnus",
+    "famille": "Ericaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "08-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Akébie à 3 feuilles",
+    "latin": "Akebia trifoliata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Lardizabalaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Akébie à 5 feuilles",
+    "latin": "Akebia quinata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Lardizabalaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Stauntonia",
+    "latin": "Stauntonia hexaphylla",
+    "categorie": "Fruitiers charnus",
+    "famille": "Lardizabalaceae",
+    "semis": "",
+    "plantation": "03-04",
+    "recolte": "10-11",
+    "classique": "non"
+  },
+  {
+    "nom": "Amélanchier de Lamarck 'Ballerina'",
+    "latin": "Amelanchier lamarckii 'Ballerina'",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "06-07",
+    "classique": "non"
+  },
+  {
+    "nom": "Amélanchier à feuilles d'aulne",
+    "latin": "Amelanchier alnifolia",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "06-07",
+    "classique": "non"
+  },
+  {
+    "nom": "Aralie",
+    "latin": "Aralia racemosa",
+    "categorie": "Fruitiers charnus",
+    "famille": "Araliaceae",
+    "semis": "",
+    "plantation": "03-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Arbousier",
+    "latin": "Arbutus unedo",
+    "categorie": "Fruitiers charnus",
+    "famille": "Ericaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "10-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Arbre aux haricots bleus",
+    "latin": "Decaisnea fargesii",
+    "categorie": "Fruitiers charnus",
+    "famille": "Lardizabalaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Arbre aux mouchoirs",
+    "latin": "Davidia involucrata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Nyssaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "",
+    "classique": "non"
+  },
+  {
+    "nom": "Argousier",
+    "latin": "Hippophae rhamnoides",
+    "categorie": "Fruitiers charnus",
+    "famille": "Elaeagnaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Aronie",
+    "latin": "Aronia melanocarpa",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "08-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Asiminier",
+    "latin": "Asimina triloba",
+    "categorie": "Fruitiers charnus",
+    "famille": "Annonaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Aubépine d'Amérique",
+    "latin": "Crataegus crus-galli",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Avocatier",
+    "latin": "Persea americana",
+    "categorie": "Fruitiers charnus",
+    "famille": "Lauraceae",
+    "semis": "03-05",
+    "plantation": "05",
+    "recolte": "10-12",
+    "classique": "oui"
+  },
+  {
+    "nom": "Baie aux cinq saveurs",
+    "latin": "Schisandra chinensis",
+    "categorie": "Fruitiers charnus",
+    "famille": "Schisandraceae",
+    "semis": "",
+    "plantation": "03-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Baie de mai",
+    "latin": "Lonicera caerulea borealis",
+    "categorie": "Fruitiers charnus",
+    "famille": "Caprifoliaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "05-06",
+    "classique": "non"
+  },
+  {
+    "nom": "Baie de maqui",
+    "latin": "Aristotelia chilensis",
+    "categorie": "Fruitiers charnus",
+    "famille": "Elaeocarpaceae",
+    "semis": "",
+    "plantation": "03-04",
+    "recolte": "08-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Bananier 'Helen's hybrid'",
+    "latin": "Musa 'Helen's hybrid'",
+    "categorie": "Fruitiers charnus",
+    "famille": "Musaceae",
+    "semis": "",
+    "plantation": "04-05",
+    "recolte": "",
+    "classique": "non"
+  },
+  {
+    "nom": "Canneberge",
+    "latin": "Vaccinium oxycoccos",
+    "categorie": "Fruitiers charnus",
+    "famille": "Ericaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Chalef à grandes feuilles",
+    "latin": "Elaeagnus macrophylla",
+    "categorie": "Fruitiers charnus",
+    "famille": "Elaeagnaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "04-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Chalef d'Automne",
+    "latin": "Elaeagnus umbellata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Elaeagnaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Chérimole",
+    "latin": "Annona cherimola",
+    "categorie": "Fruitiers charnus",
+    "famille": "Annonaceae",
+    "semis": "03-04",
+    "plantation": "05",
+    "recolte": "10-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Chèvrefeuille à feuilles étroites",
+    "latin": "Lonicera angustifolia",
+    "categorie": "Fruitiers charnus",
+    "famille": "Caprifoliaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "06-07",
+    "classique": "non"
+  },
+  {
+    "nom": "Citronnier épineux",
+    "latin": "Poncirus trifoliata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rutaceae",
+    "semis": "03-04",
+    "plantation": "04-05",
+    "recolte": "09-11",
+    "classique": "non"
+  },
+  {
+    "nom": "Cormier",
+    "latin": "Sorbus domestica",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Cornouiller du Canada",
+    "latin": "Cornus canadensis",
+    "categorie": "Fruitiers charnus",
+    "famille": "Cornaceae",
+    "semis": "",
+    "plantation": "03-04",
+    "recolte": "08-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Cornouiller de Kousa",
+    "latin": "Cornus kousa",
+    "categorie": "Fruitiers charnus",
+    "famille": "Cornaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Cornouiller mâle",
+    "latin": "Cornus mas",
+    "categorie": "Fruitiers charnus",
+    "famille": "Cornaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "08-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Daruharidra / Épine vinette indienne",
+    "latin": "Berberis aristata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Berberidaceae",
+    "semis": "",
+    "plantation": "10-04",
+    "recolte": "06-08",
+    "classique": "non"
+  },
+  {
+    "nom": "Caraganier de Sibérie",
+    "latin": "Caragana arborescens",
+    "categorie": "Fruitiers à coque",
+    "famille": "Fabaceae",
+    "semis": "03-04",
+    "plantation": "10-04",
+    "recolte": "07-08",
+    "classique": "non"
+  },
+  {
+    "nom": "Caroubier",
+    "latin": "Ceratonia siliqua",
+    "categorie": "Fruitiers à coque",
+    "famille": "Fabaceae",
+    "semis": "03-04",
+    "plantation": "04-05",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Châtaignier",
+    "latin": "Castanea sativa",
+    "categorie": "Fruitiers à coque",
+    "famille": "Fagaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "09-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Chêne vert doux 'Valenciana dulce'",
+    "latin": "Quercus ilex ballota",
+    "categorie": "Fruitiers à coque",
+    "famille": "Fagaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "10-11",
+    "classique": "non"
+  },
+  {
+    "nom": "Cocotier du Chili",
+    "latin": "Jubaea chilensis",
+    "categorie": "Fruitiers à coque",
+    "famille": "Arecaceae",
+    "semis": "03-05",
+    "plantation": "05-06",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Désespoir des singes",
+    "latin": "Araucaria araucana",
+    "categorie": "Fruitiers à coque",
+    "famille": "Araucariaceae",
+    "semis": "03-04",
+    "plantation": "04-05",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Cerfeuil",
+    "latin": "Anthriscus cerefolium",
+    "categorie": "Aromatiques",
+    "famille": "Apiaceae",
+    "semis": "03-09",
+    "plantation": "",
+    "recolte": "04-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Tomate",
+    "latin": "Solanum lycopersicum",
+    "categorie": "Légumes fruits",
+    "famille": "Solanaceae",
+    "semis": "02-04",
+    "plantation": "05",
+    "recolte": "07-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Courgette",
+    "latin": "Cucurbita pepo",
+    "categorie": "Légumes fruits",
+    "famille": "Cucurbitaceae",
+    "semis": "04-05",
+    "plantation": "05",
+    "recolte": "06-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Aubergine",
+    "latin": "Solanum melongena",
+    "categorie": "Légumes fruits",
+    "famille": "Solanaceae",
+    "semis": "01-03",
+    "plantation": "05",
+    "recolte": "07-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Poivron",
+    "latin": "Capsicum annuum",
+    "categorie": "Légumes fruits",
+    "famille": "Solanaceae",
+    "semis": "01-03",
+    "plantation": "05",
+    "recolte": "07-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Concombre",
+    "latin": "Cucumis sativus",
+    "categorie": "Légumes fruits",
+    "famille": "Cucurbitaceae",
+    "semis": "03-05",
+    "plantation": "05",
+    "recolte": "07-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Haricot vert",
+    "latin": "Phaseolus vulgaris",
+    "categorie": "Légumes fruits",
+    "famille": "Fabaceae",
+    "semis": "04-07",
+    "plantation": "",
+    "recolte": "07-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Pois",
+    "latin": "Pisum sativum",
+    "categorie": "Légumes fruits",
+    "famille": "Fabaceae",
+    "semis": "02-04",
+    "plantation": "",
+    "recolte": "05-07",
+    "classique": "oui"
+  },
+  {
+    "nom": "Carotte",
+    "latin": "Daucus carota",
+    "categorie": "Légumes racines",
+    "famille": "Apiaceae",
+    "semis": "03-07",
+    "plantation": "",
+    "recolte": "06-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Radis",
+    "latin": "Raphanus sativus",
+    "categorie": "Légumes racines",
+    "famille": "Brassicaceae",
+    "semis": "03-09",
+    "plantation": "",
+    "recolte": "04-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Pomme de terre",
+    "latin": "Solanum tuberosum",
+    "categorie": "Légumes racines",
+    "famille": "Solanaceae",
+    "semis": "",
+    "plantation": "03-05",
+    "recolte": "06-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Navet",
+    "latin": "Brassica rapa",
+    "categorie": "Légumes racines",
+    "famille": "Brassicaceae",
+    "semis": "03-08",
+    "plantation": "",
+    "recolte": "05-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Betterave",
+    "latin": "Beta vulgaris",
+    "categorie": "Légumes racines",
+    "famille": "Amaranthaceae",
+    "semis": "04-06",
+    "plantation": "",
+    "recolte": "07-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Oignon",
+    "latin": "Allium cepa",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "02-04",
+    "plantation": "02-04",
+    "recolte": "07-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Ail cultivé",
+    "latin": "Allium sativum",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "",
+    "plantation": "10-11",
+    "recolte": "06-07",
+    "classique": "oui"
+  },
+  {
+    "nom": "Échalote",
+    "latin": "Allium cepa var. aggregatum",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "",
+    "plantation": "10-03",
+    "recolte": "06-08",
+    "classique": "oui"
+  },
+  {
+    "nom": "Panais",
+    "latin": "Pastinaca sativa",
+    "categorie": "Légumes racines",
+    "famille": "Apiaceae",
+    "semis": "03-05",
+    "plantation": "",
+    "recolte": "10-03",
+    "classique": "oui"
+  },
+  {
+    "nom": "Topinambour",
+    "latin": "Helianthus tuberosus",
+    "categorie": "Légumes racines",
+    "famille": "Asteraceae",
+    "semis": "",
+    "plantation": "02-04",
+    "recolte": "11-03",
+    "classique": "oui"
+  },
+  {
+    "nom": "Laitue",
+    "latin": "Lactuca sativa",
+    "categorie": "Légumes feuilles",
+    "famille": "Asteraceae",
+    "semis": "02-08",
+    "plantation": "03-08",
+    "recolte": "04-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Épinard",
+    "latin": "Spinacia oleracea",
+    "categorie": "Légumes feuilles",
+    "famille": "Amaranthaceae",
+    "semis": "03-05",
+    "plantation": "",
+    "recolte": "04-06",
+    "classique": "oui"
+  },
+  {
+    "nom": "Poireau",
+    "latin": "Allium ampeloprasum",
+    "categorie": "Légumes feuilles",
+    "famille": "Amaryllidaceae",
+    "semis": "02-04",
+    "plantation": "05-07",
+    "recolte": "09-04",
+    "classique": "oui"
+  },
+  {
+    "nom": "Mâche",
+    "latin": "Valerianella locusta",
+    "categorie": "Légumes feuilles",
+    "famille": "Caprifoliaceae",
+    "semis": "08-10",
+    "plantation": "",
+    "recolte": "11-03",
+    "classique": "oui"
+  },
+  {
+    "nom": "Rquette",
+    "latin": "Eruca vesicaria",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "04-09",
+    "plantation": "",
+    "recolte": "05-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Pommier",
+    "latin": "Malus domestica",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "08-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Poirier",
+    "latin": "Pyrus communis",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "08-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Pêcher",
+    "latin": "Prunus persica",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "07-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Prunier",
+    "latin": "Prunus domestica",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "07-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Cerisier",
+    "latin": "Prunus avium",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "05-07",
+    "classique": "oui"
+  },
+  {
+    "nom": "Figuier",
+    "latin": "Ficus carica",
+    "categorie": "Fruitiers charnus",
+    "famille": "Moraceae",
+    "semis": "",
+    "plantation": "11-04",
+    "recolte": "07-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Fraisier",
+    "latin": "Fragaria x ananassa",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "03-04",
+    "recolte": "05-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Framboisier",
+    "latin": "Rubus idaeus",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "06-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Groseillier",
+    "latin": "Ribes rubrum",
+    "categorie": "Fruitiers charnus",
+    "famille": "Grossulariaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "06-07",
+    "classique": "oui"
+  },
+  {
+    "nom": "Cassissier",
+    "latin": "Ribes nigrum",
+    "categorie": "Fruitiers charnus",
+    "famille": "Grossulariaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "07",
+    "classique": "oui"
+  },
+  {
+    "nom": "Vigne",
+    "latin": "Vitis vinifera",
+    "categorie": "Fruitiers charnus",
+    "famille": "Vitaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "08-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Noisetier",
+    "latin": "Corylus avellana",
+    "categorie": "Fruitiers à coque",
+    "famille": "Betulaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "08-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Noyer",
+    "latin": "Juglans regia",
+    "categorie": "Fruitiers à coque",
+    "famille": "Juglandaceae",
+    "semis": "",
+    "plantation": "11-03",
+    "recolte": "09-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Persil",
+    "latin": "Petroselinum crispum",
+    "categorie": "Aromatiques",
+    "famille": "Apiaceae",
+    "semis": "03-08",
+    "plantation": "",
+    "recolte": "04-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Basilic",
+    "latin": "Ocimum basilicum",
+    "categorie": "Aromatiques",
+    "famille": "Lamiaceae",
+    "semis": "03-05",
+    "plantation": "05",
+    "recolte": "06-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Ciboulette",
+    "latin": "Allium schoenoprasum",
+    "categorie": "Aromatiques",
+    "famille": "Amaryllidaceae",
+    "semis": "03-05",
+    "plantation": "04-05",
+    "recolte": "04-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Thym",
+    "latin": "Thymus vulgaris",
+    "categorie": "Aromatiques",
+    "famille": "Lamiaceae",
+    "semis": "04-05",
+    "plantation": "04-05",
+    "recolte": "01-12",
+    "classique": "oui"
+  },
+  {
+    "nom": "Romarin",
+    "latin": "Salvia rosmarinus",
+    "categorie": "Aromatiques",
+    "famille": "Lamiaceae",
+    "semis": "04-05",
+    "plantation": "04-05",
+    "recolte": "01-12",
+    "classique": "oui"
+  },
+  {
+    "nom": "Menthe",
+    "latin": "Mentha spicata",
+    "categorie": "Aromatiques",
+    "famille": "Lamiaceae",
+    "semis": "",
+    "plantation": "03-05",
+    "recolte": "04-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Sauge officinale",
+    "latin": "Salvia officinalis",
+    "categorie": "Aromatiques",
+    "famille": "Lamiaceae",
+    "semis": "04-05",
+    "plantation": "04-05",
+    "recolte": "04-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Coriandre",
+    "latin": "Coriandrum sativum",
+    "categorie": "Aromatiques",
+    "famille": "Apiaceae",
+    "semis": "04-09",
+    "plantation": "",
+    "recolte": "05-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Aneth",
+    "latin": "Anethum graveolens",
+    "categorie": "Aromatiques",
+    "famille": "Apiaceae",
+    "semis": "04-06",
+    "plantation": "",
+    "recolte": "06-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Phacélie",
+    "latin": "Phacelia tanacetifolia",
+    "categorie": "Engrais verts",
+    "famille": "Boraginaceae",
+    "semis": "03-09",
+    "plantation": "",
+    "recolte": "",
+    "classique": "oui"
+  },
+  {
+    "nom": "Moutarde blanche",
+    "latin": "Sinapis alba",
+    "categorie": "Engrais verts",
+    "famille": "Brassicaceae",
+    "semis": "03-09",
+    "plantation": "",
+    "recolte": "",
+    "classique": "oui"
+  },
+  {
+    "nom": "Vesce commune",
+    "latin": "Vicia sativa",
+    "categorie": "Engrais verts",
+    "famille": "Fabaceae",
+    "semis": "03-05",
+    "plantation": "",
+    "recolte": "",
+    "classique": "oui"
+  },
+  {
+    "nom": "Trèfle incarnat",
+    "latin": "Trifolium incarnatum",
+    "categorie": "Engrais verts",
+    "famille": "Fabaceae",
+    "semis": "07-09",
+    "plantation": "",
+    "recolte": "",
+    "classique": "oui"
+  },
+  {
+    "nom": "Seigle",
+    "latin": "Secale cereale",
+    "categorie": "Engrais verts",
+    "famille": "Poaceae",
+    "semis": "09-11",
+    "plantation": "",
+    "recolte": "",
+    "classique": "oui"
+  },
+  {
+    "nom": "Avoine rude",
+    "latin": "Avena strigosa",
+    "categorie": "Engrais verts",
+    "famille": "Poaceae",
+    "semis": "03-04",
+    "plantation": "",
+    "recolte": "",
+    "classique": "non"
+  },
+  {
+    "nom": "Sarrasin",
+    "latin": "Fagopyrum esculentum",
+    "categorie": "Engrais verts",
+    "famille": "Polygonaceae",
+    "semis": "05-08",
+    "plantation": "",
+    "recolte": "",
+    "classique": "oui"
+  },
+  {
+    "nom": "Lupin blanc",
+    "latin": "Lupinus albus",
+    "categorie": "Engrais verts",
+    "famille": "Fabaceae",
+    "semis": "03-04",
+    "plantation": "",
+    "recolte": "",
+    "classique": "non"
+  },
+  {
+    "nom": "Féverole",
+    "latin": "Vicia faba var. equina",
+    "categorie": "Engrais verts",
+    "famille": "Fabaceae",
+    "semis": "10-11",
+    "plantation": "",
+    "recolte": "",
+    "classique": "oui"
+  },
+  {
+    "nom": "Radis chinois / Radis d'anti-compactage",
+    "latin": "Raphanus sativus var. longipinnatus",
+    "categorie": "Engrais verts",
+    "famille": "Brassicaceae",
+    "semis": "08-09",
+    "plantation": "",
+    "recolte": "",
+    "classique": "non"
   }
+]
+
