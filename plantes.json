@@ -1782,4 +1782,693 @@
     "famille": "Araliaceae",
     "classique": "non"
   }
+{
+    "id": "C39",
+    "nom": "Rutabaga",
+    "nomScientifique": "Brassica napus subsp. rapifera",
+    "categorie": "Légume-racine",
+    "semis": "mai-juillet",
+    "plantation": "juin-août",
+    "recolte": "septembre-février",
+    "classique": true
+  },
+  {
+    "id": "C40",
+    "nom": "Endive",
+    "nomScientifique": "Cichorium intybus var. foliosum",
+    "categorie": "Légume-feuille",
+    "semis": "mai-juin",
+    "plantation": "mai-juin",
+    "recolte": "octobre-mars",
+    "classique": true
+  },
+  {
+    "id": "C41",
+    "nom": "Scarole",
+    "nomScientifique": "Cichorium endivia var. latifolium",
+    "categorie": "Légume-feuille",
+    "semis": "juin-août",
+    "plantation": "juillet-septembre",
+    "recolte": "septembre-décembre",
+    "classique": true
+  },
+  {
+    "id": "C42",
+    "nom": "Radicchio",
+    "nomScientifique": "Cichorium intybus var. foliosum",
+    "categorie": "Légume-feuille",
+    "semis": "mai-juillet",
+    "plantation": "juin-août",
+    "recolte": "septembre-décembre",
+    "classique": true
+  },
+  {
+    "id": "C43",
+    "nom": "Cresson",
+    "nomScientifique": "Nasturtium officinale",
+    "categorie": "Légume-feuille",
+    "semis": "mars-octobre",
+    "plantation": "mars-octobre",
+    "recolte": "avril-novembre",
+    "classique": true
+  },
+  {
+    "id": "C44",
+    "nom": "Maïs doux",
+    "nomScientifique": "Zea mays var. saccharata",
+    "categorie": "Légume-fruit",
+    "semis": "avril-mai",
+    "plantation": "mai-juin",
+    "recolte": "août-octobre",
+    "classique": true
+  },
+  {
+    "id": "C45",
+    "nom": "Haricot beurre",
+    "nomScientifique": "Phaseolus vulgaris",
+    "categorie": "Légume",
+    "semis": "mai-juillet",
+    "plantation": "mai-juillet",
+    "recolte": "juillet-septembre",
+    "classique": true
+  },
+  {
+    "id": "C46",
+    "nom": "Haricot à rames",
+    "nomScientifique": "Phaseolus vulgaris",
+    "categorie": "Légume",
+    "semis": "mai-juillet",
+    "plantation": "mai-juin",
+    "recolte": "juillet-septembre",
+    "classique": true
+  },
+  {
+    "id": "C47",
+    "nom": "Pois mangetout",
+    "nomScientifique": "Pisum sativum",
+    "categorie": "Légume",
+    "semis": "février-mai / octobre-novembre",
+    "plantation": "février-mai",
+    "recolte": "mai-juillet",
+    "classique": true
+  },
+  {
+    "id": "C49",
+    "nom": "Tétragone",
+    "nomScientifique": "Tetragonia tetragonioides",
+    "categorie": "Légume-feuille",
+    "semis": "avril-mai",
+    "plantation": "mai-juin",
+    "recolte": "juin-octobre",
+    "classique": true
+  },
+  {
+    "id": "C50",
+    "nom": "Salsifis",
+    "nomScientifique": "Tragopogon porrifolius",
+    "categorie": "Légume-racine",
+    "semis": "mars-mai",
+    "plantation": "—",
+    "recolte": "octobre-février",
+    "classique": true
+  },
+  {
+    "id": "C51",
+    "nom": "Scorsonère",
+    "nomScientifique": "Scorzonera hispanica",
+    "categorie": "Légume-racine",
+    "semis": "mars-mai",
+    "plantation": "—",
+    "recolte": "octobre-mars",
+    "classique": true
+  },
+  {
+    "id": "C53",
+    "nom": "Pois chiche",
+    "nomScientifique": "Cicer arietinum",
+    "categorie": "Légumineuse",
+    "semis": "février-avril",
+    "plantation": "mars-mai",
+    "recolte": "juillet-août",
+    "classique": true
+  },
+  {
+    "id": "C54",
+    "nom": "Lentille",
+    "nomScientifique": "Lens culinaris",
+    "categorie": "Légumineuse",
+    "semis": "mars-avril",
+    "plantation": "—",
+    "recolte": "juillet-août",
+    "classique": true
+  },
+  {
+    "id": "C55",
+    "nom": "Persil",
+    "nomScientifique": "Petroselinum crispum",
+    "categorie": "Aromatique",
+    "semis": "février-juillet",
+    "plantation": "avril-septembre",
+    "recolte": "mai-décembre",
+    "classique": "oui",
+    "famille": "Apiaceae"
+  },
+  {
+    "id": "C56",
+    "nom": "Ciboulette",
+    "nomScientifique": "Allium schoenoprasum",
+    "categorie": "Aromatique vivace",
+    "semis": "février-mai",
+    "plantation": "mars-juin",
+    "recolte": "avril-octobre",
+    "classique": "oui",
+    "famille": "Amaryllidaceae"
+  },
+  {
+    "id": "C57",
+    "nom": "Thym",
+    "nomScientifique": "Thymus vulgaris",
+    "categorie": "Aromatique vivace",
+    "semis": "mars-mai",
+    "plantation": "avril-juin",
+    "recolte": "toute l'année",
+    "classique": "oui",
+    "famille": "Lamiaceae"
+  },
+  {
+    "id": "C58",
+    "nom": "Romarin",
+    "nomScientifique": "Salvia rosmarinus",
+    "categorie": "Aromatique vivace",
+    "semis": "mars-mai",
+    "plantation": "mars-juin",
+    "recolte": "toute l'année",
+    "classique": "oui",
+    "famille": "Lamiaceae"
+  },
+  {
+    "id": "C61",
+    "nom": "Origan",
+    "nomScientifique": "Origanum vulgare",
+    "categorie": "Aromatique vivace",
+    "semis": "mars-mai",
+    "plantation": "mai-juin",
+    "recolte": "juin-septembre",
+    "classique": true
+  },
+  {
+    "id": "C62",
+    "nom": "Estragon",
+    "nomScientifique": "Artemisia dracunculus",
+    "categorie": "Aromatique vivace",
+    "semis": "mars-mai",
+    "plantation": "mai-juin",
+    "recolte": "juin-septembre",
+    "classique": true
+  },
+  {
+    "id": "C63",
+    "nom": "Fraisier",
+    "nomScientifique": "Fragaria x ananassa",
+    "categorie": "Petit fruit",
+    "semis": "février-mai / septembre-octobre",
+    "plantation": "février-mai / septembre-octobre",
+    "recolte": "mai-juillet",
+    "classique": "oui",
+    "famille": "Rosaceae"
+  },
+  {
+    "id": "C64",
+    "nom": "Framboisier",
+    "nomScientifique": "Rubus idaeus",
+    "categorie": "Petit fruit vivace",
+    "semis": "février-mars / octobre-novembre",
+    "plantation": "février-mars / octobre-novembre",
+    "recolte": "juin-septembre",
+    "classique": "oui",
+    "famille": "Rosaceae"
+  },
+  {
+    "id": "C65",
+    "nom": "Groseillier",
+    "nomScientifique": "Ribes rubrum",
+    "categorie": "Petit fruit vivace",
+    "semis": "février-mars / octobre-novembre",
+    "plantation": "février-mars / octobre-novembre",
+    "recolte": "juin-juillet",
+    "classique": "oui",
+    "famille": "Grossulariaceae"
+  },
+  {
+    "id": "C66",
+    "nom": "Cassissier",
+    "nomScientifique": "Ribes nigrum",
+    "categorie": "Petit fruit vivace",
+    "semis": "février-mars / octobre-novembre",
+    "plantation": "février-mars / octobre-novembre",
+    "recolte": "juin-juillet",
+    "classique": "oui",
+    "famille": "Grossulariaceae"
+  },
+  {
+    "id": "C67",
+    "nom": "Groseillier à maquereau",
+    "nomScientifique": "Ribes uva-crispa",
+    "categorie": "Petit fruit vivace",
+    "semis": "février-mars / octobre-novembre",
+    "plantation": "février-mars / octobre-novembre",
+    "recolte": "juin-juillet",
+    "classique": true
+  },
+  {
+    "id": "C68",
+    "nom": "Mûrier sans épines",
+    "nomScientifique": "Rubus fruticosus",
+    "categorie": "Petit fruit vivace",
+    "semis": "février-mars / octobre-novembre",
+    "plantation": "février-mars / octobre-novembre",
+    "recolte": "juillet-septembre",
+    "classique": true
+  },
+  {
+    "id": "C69",
+    "nom": "Myrtille",
+    "nomScientifique": "Vaccinium corymbosum",
+    "categorie": "Petit fruit vivace",
+    "semis": "février-avril / octobre-novembre",
+    "plantation": "février-avril / octobre-novembre",
+    "recolte": "juin-août",
+    "classique": true
+  },
+  {
+    "id": "C70",
+    "nom": "Vigne",
+    "nomScientifique": "Vitis vinifera",
+    "categorie": "Fruit vivace",
+    "semis": "—",
+    "plantation": "février-avril",
+    "recolte": "août-octobre",
+    "classique": "oui",
+    "famille": "Vitaceae"
+  },
+  {
+    "id": "C71",
+    "nom": "Kiwi",
+    "nomScientifique": "Actinidia deliciosa",
+    "categorie": "Fruit vivace",
+    "semis": "—",
+    "plantation": "octobre-avril",
+    "recolte": "octobre-novembre",
+    "classique": true
+  },
+  {
+    "id": "C72",
+    "nom": "Oseille",
+    "nomScientifique": "Rumex acetosa",
+    "categorie": "Légume vivace",
+    "semis": "mars-mai / août-septembre",
+    "plantation": "mars-mai",
+    "recolte": "avril-novembre",
+    "classique": true
+  },
+  {
+    "id": "C73",
+    "nom": "Fève",
+    "nomScientifique": "Vicia faba",
+    "categorie": "Légumineuse",
+    "semis": "février-avril / octobre-novembre",
+    "plantation": "octobre-mars",
+    "recolte": "mai-juillet",
+    "classique": true
+  },
+  {
+    "nom": "Châtaigne de terre / gesse tubéreuse",
+    "nomScientifique": "Lathyrus tuberosus",
+    "categorie": "Légumes racines",
+    "famille": "Fabaceae",
+    "semis": "03-04",
+    "recolte": "10-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Châtaigne de terre / noisette de terre",
+    "nomScientifique": "Bunium bulbocastanum",
+    "categorie": "Légumes racines",
+    "famille": "Apiaceae",
+    "semis": "09-10",
+    "recolte": "06-07",
+    "classique": "non"
+  },
+  {
+    "nom": "Ciboule de Chine / Ail rocambole",
+    "nomScientifique": "Allium tuberosum",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "semis": "03-05",
+    "plantation": "04-05",
+    "recolte": "05-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Angélique vraie",
+    "nomScientifique": "Angelica archangelica",
+    "categorie": "Légumes feuilles",
+    "famille": "Apiaceae",
+    "semis": "08-09",
+    "plantation": "03-04",
+    "recolte": "05-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Arroche marine / pourpier marin",
+    "nomScientifique": "Atriplex halimus",
+    "categorie": "Légumes feuilles",
+    "famille": "Amaranthaceae",
+    "semis": "03-04",
+    "plantation": "04-05",
+    "recolte": "01-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Cerfeuil sauvage",
+    "nomScientifique": "Anthriscus sylvestris",
+    "categorie": "Légumes feuilles",
+    "famille": "Apiaceae",
+    "semis": "08-09",
+    "recolte": "03-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Choux divers",
+    "nomScientifique": "Brassica oleracea",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "03-06",
+    "plantation": "05-07",
+    "recolte": "09-03",
+    "classique": "oui"
+  },
+  {
+    "nom": "Chou brocoli Nine Star Perennial",
+    "nomScientifique": "Brassica oleracea botrytis aparagoides",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "03-05",
+    "plantation": "05-06",
+    "recolte": "03-05",
+    "classique": "non"
+  },
+  {
+    "nom": "Chou Daubenton",
+    "nomScientifique": "Brassica oleracea",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "plantation": "03-05",
+    "recolte": "01-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Stauntonia",
+    "nomScientifique": "Stauntonia hexaphylla",
+    "categorie": "Fruitiers charnus",
+    "famille": "Lardizabalaceae",
+    "plantation": "03-04",
+    "recolte": "10-11",
+    "classique": "non"
+  },
+  {
+    "nom": "Amélanchier à feuilles d'aulne",
+    "nomScientifique": "Amelanchier alnifolia",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "plantation": "11-03",
+    "recolte": "06-07",
+    "classique": "non"
+  },
+  {
+    "nom": "Aronie",
+    "nomScientifique": "Aronia melanocarpa",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "plantation": "10-04",
+    "recolte": "08-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Aubépine d'Amérique",
+    "nomScientifique": "Crataegus crus-galli",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "plantation": "11-03",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Chalef d'Automne",
+    "nomScientifique": "Elaeagnus umbellata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Elaeagnaceae",
+    "plantation": "10-04",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Chérimole",
+    "nomScientifique": "Annona cherimola",
+    "categorie": "Fruitiers charnus",
+    "famille": "Annonaceae",
+    "semis": "03-04",
+    "plantation": "05",
+    "recolte": "10-12",
+    "classique": "non"
+  },
+  {
+    "nom": "Chèvrefeuille à feuilles étroites",
+    "nomScientifique": "Lonicera angustifolia",
+    "categorie": "Fruitiers charnus",
+    "famille": "Caprifoliaceae",
+    "plantation": "10-04",
+    "recolte": "06-07",
+    "classique": "non"
+  },
+  {
+    "nom": "Citronnier épineux",
+    "nomScientifique": "Poncirus trifoliata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rutaceae",
+    "semis": "03-04",
+    "plantation": "04-05",
+    "recolte": "09-11",
+    "classique": "non"
+  },
+  {
+    "nom": "Cornouiller du Canada",
+    "nomScientifique": "Cornus canadensis",
+    "categorie": "Fruitiers charnus",
+    "famille": "Cornaceae",
+    "plantation": "03-04",
+    "recolte": "08-09",
+    "classique": "non"
+  },
+  {
+    "nom": "Cornouiller de Kousa",
+    "nomScientifique": "Cornus kousa",
+    "categorie": "Fruitiers charnus",
+    "famille": "Cornaceae",
+    "plantation": "11-03",
+    "recolte": "09-10",
+    "classique": "non"
+  },
+  {
+    "nom": "Daruharidra / Épine vinette indienne",
+    "nomScientifique": "Berberis aristata",
+    "categorie": "Fruitiers charnus",
+    "famille": "Berberidaceae",
+    "plantation": "10-04",
+    "recolte": "06-08",
+    "classique": "non"
+  },
+  {
+    "nom": "Caraganier de Sibérie",
+    "nomScientifique": "Caragana arborescens",
+    "categorie": "Fruitiers à coque",
+    "famille": "Fabaceae",
+    "semis": "03-04",
+    "plantation": "10-04",
+    "recolte": "07-08",
+    "classique": "non"
+  },
+  {
+    "nom": "Châtaignier",
+    "nomScientifique": "Castanea sativa",
+    "categorie": "Fruitiers à coque",
+    "famille": "Fagaceae",
+    "plantation": "11-03",
+    "recolte": "09-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Pois",
+    "nomScientifique": "Pisum sativum",
+    "categorie": "Légumes fruits",
+    "famille": "Fabaceae",
+    "semis": "02-04",
+    "recolte": "05-07",
+    "classique": "oui"
+  },
+  {
+    "nom": "Ail cultivé",
+    "nomScientifique": "Allium sativum",
+    "categorie": "Légumes racines",
+    "famille": "Amaryllidaceae",
+    "plantation": "10-11",
+    "recolte": "06-07",
+    "classique": "oui"
+  },
+  {
+    "nom": "Rquette",
+    "nomScientifique": "Eruca vesicaria",
+    "categorie": "Légumes feuilles",
+    "famille": "Brassicaceae",
+    "semis": "04-09",
+    "recolte": "05-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Prunier",
+    "nomScientifique": "Prunus domestica",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "plantation": "11-03",
+    "recolte": "07-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Cerisier",
+    "nomScientifique": "Prunus avium",
+    "categorie": "Fruitiers charnus",
+    "famille": "Rosaceae",
+    "plantation": "11-03",
+    "recolte": "05-07",
+    "classique": "oui"
+  },
+  {
+    "nom": "Noisetier",
+    "nomScientifique": "Corylus avellana",
+    "categorie": "Fruitiers à coque",
+    "famille": "Betulaceae",
+    "plantation": "11-03",
+    "recolte": "08-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Basilic",
+    "nomScientifique": "Ocimum basilicum",
+    "categorie": "Aromatiques",
+    "famille": "Lamiaceae",
+    "semis": "03-05",
+    "plantation": "05",
+    "recolte": "06-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Sauge officinale",
+    "nomScientifique": "Salvia officinalis",
+    "categorie": "Aromatiques",
+    "famille": "Lamiaceae",
+    "semis": "04-05",
+    "plantation": "04-05",
+    "recolte": "04-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Coriandre",
+    "nomScientifique": "Coriandrum sativum",
+    "categorie": "Aromatiques",
+    "famille": "Apiaceae",
+    "semis": "04-09",
+    "recolte": "05-10",
+    "classique": "oui"
+  },
+  {
+    "nom": "Aneth",
+    "nomScientifique": "Anethum graveolens",
+    "categorie": "Aromatiques",
+    "famille": "Apiaceae",
+    "semis": "04-06",
+    "recolte": "06-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Phacélie",
+    "nomScientifique": "Phacelia tanacetifolia",
+    "categorie": "Engrais verts",
+    "famille": "Boraginaceae",
+    "semis": "03-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Moutarde blanche",
+    "nomScientifique": "Sinapis alba",
+    "categorie": "Engrais verts",
+    "famille": "Brassicaceae",
+    "semis": "03-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Vesce commune",
+    "nomScientifique": "Vicia sativa",
+    "categorie": "Engrais verts",
+    "famille": "Fabaceae",
+    "semis": "03-05",
+    "classique": "oui"
+  },
+  {
+    "nom": "Trèfle incarnat",
+    "nomScientifique": "Trifolium incarnatum",
+    "categorie": "Engrais verts",
+    "famille": "Fabaceae",
+    "semis": "07-09",
+    "classique": "oui"
+  },
+  {
+    "nom": "Avoine rude",
+    "nomScientifique": "Avena strigosa",
+    "categorie": "Engrais verts",
+    "famille": "Poaceae",
+    "semis": "03-04",
+    "classique": "non"
+  },
+  {
+    "nom": "Sarrasin",
+    "nomScientifique": "Fagopyrum esculentum",
+    "categorie": "Engrais verts",
+    "famille": "Polygonaceae",
+    "semis": "05-08",
+    "classique": "oui"
+  },
+  {
+    "nom": "Lupin blanc",
+    "nomScientifique": "Lupinus albus",
+    "categorie": "Engrais verts",
+    "famille": "Fabaceae",
+    "semis": "03-04",
+    "classique": "non"
+  },
+  {
+    "nom": "Féverole",
+    "nomScientifique": "Vicia faba var. equina",
+    "categorie": "Engrais verts",
+    "famille": "Fabaceae",
+    "semis": "10-11",
+    "classique": "oui"
+  },
+  {
+    "nom": "Radis chinois / Radis d'anti-compactage",
+    "nomScientifique": "Raphanus sativus var. longipinnatus",
+    "categorie": "Engrais verts",
+    "famille": "Brassicaceae",
+    "semis": "08-09",
+    "classique": "non"
+  }
 ]
